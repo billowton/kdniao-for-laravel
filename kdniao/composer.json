@@ -1,0 +1,17 @@
+{
+    "name": "billowton/kdniao",
+    "description": "kdniao service for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Billowton",
+            "email": "billowton@foxmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Shawn\\Kdniao\\":"src/"
+        }
+    }
+}
